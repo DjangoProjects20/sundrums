@@ -8,7 +8,7 @@ httplib2==0.11.3
 jsmin==2.2.2
 macholib==1.10
 pefile==2018.8.8
-Pillow==5.1.0
+Pillow==9.0.1
 PyInstaller==3.3.1
 PyPDF2==1.26.0
 pypiwin32==223
